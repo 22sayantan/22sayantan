@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @22sayantan
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning computer science engineering
-- 💞️ I’m looking to collaborate on frontend developer
+- 👋 Hi, I’m Sayantan
+- 👀 I’m interested in coding @ Python-Flask-ML
+- 🌱 I’m computer science engineering graduate
+- 💞️ I’m looking to collaborate on backend developer
 - 📫 How to reach me ...
 
 <!---
